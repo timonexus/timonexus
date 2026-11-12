@@ -5,10 +5,11 @@
 
 ### Software Development · Java · Open Source
 
-Building software, exploring ideas, and continuously improving.
+Building software, solving problems, and turning ideas into working applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Timonexus-181717?style=flat&logo=github)](https://github.com/timonexus)
 [![Java](https://img.shields.io/badge/Java-25-orange?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Git Assistant](https://img.shields.io/badge/Git%20Assistant-v1.0.0-blue?style=flat&logo=github)](https://github.com/timonexus/git-assistant/releases/tag/v1.0.0)
 [![Open Source](https://img.shields.io/badge/Open%20Source-♥-blue?style=flat)](https://github.com/timonexus)
 
 </div>
@@ -17,13 +18,13 @@ Building software, exploring ideas, and continuously improving.
 
 ## About Me
 
-Hi, I'm **Timo**, a developer passionate about building software and understanding how things work under the hood.
+Hi, I'm **Timo**, a developer passionate about building software, understanding how things work, and continuously improving my skills.
 
-I enjoy turning ideas into working applications, experimenting with technologies, and continuously improving my development skills.
+My primary focus is **Java development**. I enjoy developing applications, designing software architecture, working with databases, and exploring ways to make development workflows more efficient.
 
-My primary focus is **Java development**. Alongside Java, I'm exploring web technologies, backend development, databases, and software architecture.
+I believe good software development goes beyond making code work. It means understanding the underlying concepts, making thoughtful design decisions, writing maintainable code, and testing what you build.
 
-I believe that becoming a better developer means more than just writing code. It's about understanding concepts, making thoughtful design decisions, and building software that is maintainable and reliable.
+I learn best by turning ideas into real projects and solving practical problems along the way.
 
 ## Tech Stack
 
@@ -39,7 +40,6 @@ I believe that becoming a better developer means more than just writing code. It
 
 ![Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
 
 ### Tools & Technologies
 
@@ -47,35 +47,59 @@ I believe that becoming a better developer means more than just writing code. It
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## Featured Projects
 
-A selection of projects I'm building and experimenting with:
+Projects I've built and am currently developing:
 
-| Project | Description | Technologies |
-|---|---|---|
-| **DigitalClock** | A lightweight digital clock application with graphical and command-line interfaces. | Java, Swing, Maven |
-| **Planora** | A desktop application focused on structured planning and organization. | Java, Swing, SQLite |
+### [Git Assistant](https://github.com/timonexus/git-assistant)
 
-More projects and experiments can be found in my repositories.
+**AI-powered Git commit messages, right from your terminal.**
+
+A Java command-line application that analyzes Git changes and generates meaningful commit messages using locally running Ollama models.
+
+- Automatic Git change detection and file selection
+- AI-generated Conventional Commit messages
+- Local AI integration with Ollama
+- Human approval before creating commits
+- Executable JAR distribution
+
+[![Release](https://img.shields.io/github/v/release/timonexus/git-assistant?style=flat&label=Latest%20Release)](https://github.com/timonexus/git-assistant/releases/latest)
+[![Java](https://img.shields.io/badge/Java-25-orange?style=flat&logo=openjdk)](https://www.java.com/)
+
+### [Planora](https://github.com/timonexus/Planora)
+
+A desktop planning application focused on structured planning and organization.
+
+Currently in development, with a focus on application architecture, database integration, and a maintainable user interface.
+
+**Technologies:** Java, Swing, SQLite, Maven
+
+### DigitalClock
+
+A lightweight digital clock application with graphical and command-line interfaces.
+
+**Technologies:** Java, Swing, Maven
 
 ## Currently Working On
 
-- Developing and improving Java applications
-- Writing clean, maintainable, and testable code
-- Understanding software architecture and design principles
-- Exploring backend development and database integration
-- Improving my workflow with Git, Maven, and automated testing
-- Learning new technologies through practical projects
+- Building practical Java applications
+- Improving software architecture and code quality
+- Writing maintainable and testable code
+- Working with databases and application persistence
+- Exploring local AI integration and automation
+- Improving development workflows with Git, Maven, and automated testing
+- Learning new technologies through hands-on projects
 
 ## Development Philosophy
 
-I don't believe in writing code just to make something work.
+I don't want to write code just to make something work.
 
 I want to understand why it works, how it is structured, and how it can be improved.
 
-My approach to software development is built around three principles:
+My approach is built around three principles:
 
 - **Build** — Turn ideas into real applications.
 - **Understand** — Learn the concepts behind the implementation.
@@ -85,11 +109,11 @@ My approach to software development is built around three principles:
 
 ## Open Source & Collaboration
 
-I'm interested in open-source development and collaborating with other developers.
+I'm interested in open-source development, learning from other developers, and sharing useful tools with the community.
 
 Feedback, suggestions, bug reports, and contributions are always welcome.
 
-Feel free to explore my repositories, open an issue, or get in touch through GitHub.
+Feel free to explore my repositories and get in touch through GitHub.
 
 ---
 

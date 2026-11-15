@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# Timonexus
-
 <div align="center">
   <img src="Timonexus_%20Moderne%20Open-Source-Technologie.png" width="100%" alt="Timonexus - Build. Understand. Improve.">
 </div>

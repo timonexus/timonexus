@@ -3,6 +3,10 @@
 
 # Timonexus
 
+<div align="center">
+  <img src="banner.png" width="100%" alt="Timonexus - Build. Understand. Improve.">
+</div>
+
 ### Software Developer · Java · Application Development
 
 Building software with purpose. Designing systems that last.

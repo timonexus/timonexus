@@ -3,14 +3,22 @@
 
 # Timonexus
 
-### Software Development · Java · Open Source
+### Software Developer · Java · Application Development
 
-Building software, solving problems, and turning ideas into working applications.
+Building software with purpose. Designing systems that last.
+
+I develop applications, explore software architecture and turn ideas into practical solutions.
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Timonexus-181717?style=flat&logo=github)](https://github.com/timonexus)
 [![Java](https://img.shields.io/badge/Java-25-orange?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Git Assistant](https://img.shields.io/badge/Git%20Assistant-v1.0.0-blue?style=flat&logo=github)](https://github.com/timonexus/git-assistant/releases/tag/v1.0.0)
-[![Open Source](https://img.shields.io/badge/Open%20Source-♥-blue?style=flat)](https://github.com/timonexus)
+[![Git Assistant](https://img.shields.io/badge/Git_Assistant-v1.0.0-blue?style=flat&logo=github)](https://github.com/timonexus/git-assistant/releases/tag/v1.0.0)
+[![Open Source](https://img.shields.io/badge/Open_Source-♥-blue?style=flat)](https://github.com/timonexus)
+
+<br/>
+
+[Projects](#featured-projects) · [Tech Stack](#tech-stack) · [Philosophy](#development-philosophy)
 
 </div>
 
@@ -18,15 +26,79 @@ Building software, solving problems, and turning ideas into working applications
 
 ## About Me
 
-Hi, I'm **Timo**, a developer passionate about building software, understanding how things work, and continuously improving my skills.
+Hi, I'm **Timo** — a software developer passionate about building applications, understanding complex systems and continuously improving the way software is designed.
 
-My primary focus is **Java development**. I enjoy developing applications, designing software architecture, working with databases, and exploring ways to make development workflows more efficient.
+My primary focus is **Java development**, particularly desktop applications, software architecture and backend logic.
 
-I believe good software development goes beyond making code work. It means understanding the underlying concepts, making thoughtful design decisions, writing maintainable code, and testing what you build.
+I enjoy working on projects that solve practical problems, from small command-line utilities to more complex applications with databases, custom interfaces and modular architectures.
 
-I learn best by turning ideas into real projects and solving practical problems along the way.
+I believe that professional software development is about more than writing code that works.
+
+It's about understanding the underlying concepts, making deliberate architectural decisions, writing maintainable code and building applications that can grow over time.
+
+I learn by building real projects, experimenting with new technologies and continuously refining my approach.
+
+## Featured Projects
+
+A selection of my personal software projects.
+
+### [Planora](https://github.com/timonexus/Planora)
+
+**Plan. Organize. Achieve.**
+
+A desktop planning application designed for schools, clubs and organizations.
+
+Planora aims to bring groups, instructors, topics and activities together in one structured environment.
+
+**Development focus:**
+- Modular application architecture
+- Custom Java Swing components
+- Relational database design with SQLite
+- Reusable and extensible UI components
+- Structured planning and organization workflows
+
+**Technologies:** Java 25 · Swing · FlatLaf · SQLite · Maven
+
+[![Development](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat)](https://github.com/timonexus/Planora)
+
+---
+
+### [Git Assistant](https://github.com/timonexus/git-assistant)
+
+**AI-powered Git commit messages, right from your terminal.**
+
+A Java command-line application that analyzes Git changes and generates meaningful Conventional Commit messages using locally running Ollama models.
+
+**Features:**
+- Automatic Git change detection
+- Interactive file selection
+- AI-generated Conventional Commit messages
+- Local AI integration with Ollama
+- Human approval before committing
+- Executable JAR distribution
+
+**Technologies:** Java 25 · Maven · Git · Ollama
+
+[![Latest Release](https://img.shields.io/github/v/release/timonexus/git-assistant?style=flat&label=Latest%20Release)](https://github.com/timonexus/git-assistant/releases/latest)
+[![Java](https://img.shields.io/badge/Java-25-orange?style=flat&logo=openjdk)](https://www.java.com/)
+
+---
+
+### [DigitalClock](https://github.com/timonexus/DigitalClock)
+
+**A simple clock with a focus on functionality and clean design.**
+
+A lightweight Java application featuring graphical and command-line interfaces.
+
+The project explores UI architecture, application structure and different ways of presenting real-time information.
+
+**Technologies:** Java 25 · Swing · Maven
+
+---
 
 ## Tech Stack
+
+Technologies and tools I work with or explore through my projects.
 
 ### Languages
 
@@ -38,7 +110,8 @@ I learn best by turning ideas into real projects and solving practical problems 
 
 ### Frameworks & Libraries
 
-![Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![FlatLaf](https://img.shields.io/badge/FlatLaf-303030?style=for-the-badge)
 ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ### Tools & Technologies
@@ -50,77 +123,60 @@ I learn best by turning ideas into real projects and solving practical problems 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Featured Projects
-
-Projects I've built and am currently developing:
-
-### [Git Assistant](https://github.com/timonexus/git-assistant)
-
-**AI-powered Git commit messages, right from your terminal.**
-
-A Java command-line application that analyzes Git changes and generates meaningful commit messages using locally running Ollama models.
-
-- Automatic Git change detection and file selection
-- AI-generated Conventional Commit messages
-- Local AI integration with Ollama
-- Human approval before creating commits
-- Executable JAR distribution
-
-[![Release](https://img.shields.io/github/v/release/timonexus/git-assistant?style=flat&label=Latest%20Release)](https://github.com/timonexus/git-assistant/releases/latest)
-[![Java](https://img.shields.io/badge/Java-25-orange?style=flat&logo=openjdk)](https://www.java.com/)
-
-### [Planora](https://github.com/timonexus/Planora)
-
-A desktop planning application focused on structured planning and organization.
-
-Currently in development, with a focus on application architecture, database integration, and a maintainable user interface.
-
-**Technologies:** Java, Swing, SQLite, Maven
-
-### DigitalClock
-
-A lightweight digital clock application with graphical and command-line interfaces.
-
-**Technologies:** Java, Swing, Maven
+---
 
 ## Currently Working On
 
-- Building practical Java applications
-- Improving software architecture and code quality
-- Writing maintainable and testable code
-- Working with databases and application persistence
-- Exploring local AI integration and automation
-- Improving development workflows with Git, Maven, and automated testing
-- Learning new technologies through hands-on projects
+My current development interests include:
+
+- Developing Planora into a structured and extensible planning application.
+- Improving software architecture and application design.
+- Building reusable and maintainable Java components.
+- Designing relational databases and persistence layers.
+- Writing automated tests and improving code quality.
+- Exploring local AI integration and practical automation.
+- Expanding my knowledge of web development.
+
+---
 
 ## Development Philosophy
 
 I don't want to write code just to make something work.
 
-I want to understand why it works, how it is structured, and how it can be improved.
+I want to understand **why** it works, **how** it is structured and **how** it can be improved.
 
-My approach is built around three principles:
+My development approach is built around three principles:
 
-- **Build** — Turn ideas into real applications.
-- **Understand** — Learn the concepts behind the implementation.
-- **Improve** — Refine code, architecture, and development practices.
+| Principle | Meaning |
+|---|---|
+| **Build** | Turn ideas into real, working applications. |
+| **Understand** | Learn the concepts behind every implementation. |
+| **Improve** | Refine code, architecture and development practices. |
 
-> "Build. Understand. Improve."
+> Build. Understand. Improve.
+
+I value clean code, thoughtful architecture, consistency and continuous learning.
+
+---
 
 ## Open Source & Collaboration
 
-I'm interested in open-source development, learning from other developers, and sharing useful tools with the community.
+I'm interested in open-source development, exchanging ideas and creating tools that are useful to others.
 
-Feedback, suggestions, bug reports, and contributions are always welcome.
+Whether it's feedback, suggestions, bug reports or contributions, constructive collaboration is always welcome.
 
-Feel free to explore my repositories and get in touch through GitHub.
+Feel free to explore my repositories and follow my development journey.
+
+[![GitHub](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timonexus)
 
 ---
 
 <div align="center">
 
-**Timonexus**
+### Timonexus
 
-*Building today. Improving tomorrow.*
+**Building today. Improving tomorrow.**
+
+<sub>Designed with curiosity. Built with purpose.</sub>
 
 </div>
